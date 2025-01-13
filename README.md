@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-A simple C program that evaluates password strength based on various security criteria.
+A CLI tool to check the strength of inputted passswords. Checks against a criteria (listed below) and gives a score.
 
 ## Features
 
