@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-A CLI tool to check the strength of inputted passswords. Checks against a criteria (listed below) and gives a score.
+A CLI tool to check the strength of inputted passswords. Checks against a criteria (listed below) and gives a score. Written in C.
 
 ## Features
 
